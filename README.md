@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**thanusri7012/thanusri7012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Thanusri Vijayakumar**, an MCA student at **Kongu Engineering College** and a passionate **Mobile App Developer** 🚀.  
+I enjoy building innovative applications and exploring the intersection of **AI, Flutter, and React**.  
 
-Here are some ideas to get you started:
+- 🎓 MCA Student @ Kongu Engineering College  
+- 🏆 SIH Finalist 2024  
+- 💼 Flutter Developer @ ZenThink Technologies  
+- 💻 Skilled in **Flutter | AI | React | Firebase | Mobile App Development**  
+- 📫 Reach me at: *[thanusri7012@gmail.com/https://www.linkedin.com/in/thanusri-vijayakumar-46a78733b/]*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+- **Mobile:** Flutter, Dart, Android, React Native  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend & Cloud:** Firebase, Node.js  
+- **AI/ML:** Python 
+
+---
+
+✨ *“Code, Learn, and Build something impactful every day.”*  
